@@ -1,0 +1,8 @@
+1 A computer is a machine that can be instructed to carry out sequences of arithmetic or 
+2 logical operations automatically via computer programming. Modern computers have the 
+3 ability to follow generalized sets of operations, called programs. These programs enable 
+4 computers to perform an extremely wide range of tasks. A "complete" computer including the
+5 hardware, the operating system (main software), and peripheral equipment required and used 
+6 for "full" operation can be referred to as a computer system. This term may as well be used
+7 for a group of computers that are connected and work together, in particular a computer 
+8 network or computer cluster.
